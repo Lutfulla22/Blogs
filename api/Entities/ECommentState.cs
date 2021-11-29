@@ -1,6 +1,6 @@
 namespace api.Entities
 {
-    public enum EState
+    public enum ECommentState
     {
         Pending,
         Approved,
